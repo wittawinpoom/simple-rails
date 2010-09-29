@@ -1,0 +1,13 @@
+one:
+  author: MyString
+  email: MyString
+  body: MyText
+  commentable_id: 1
+  commentable_type: MyString
+
+two:
+  author: MyString
+  email: MyString
+  body: MyText
+  commentable_id: 1
+  commentable_type: MyString
